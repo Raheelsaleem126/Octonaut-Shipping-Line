@@ -2,7 +2,7 @@ import Blog from "@/components/blogs/blog";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-   title: "Blog Logistex - Transport & Logistics React Next js Template",
+   title: "Octonaut-Shipping Line & Container Trading",
 };
 const page = () => {
    return (

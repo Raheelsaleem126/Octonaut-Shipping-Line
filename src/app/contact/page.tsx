@@ -2,7 +2,7 @@ import Contact from "@/components/contact";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-   title: "Contact Logistex - Transport & Logistics React Next js Template",
+   title: "Octonaut-Shipping Line & Container Trading",
 };
 const page = () => {
    return (

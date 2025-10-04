@@ -2,7 +2,7 @@ import History from "@/components/pages/history";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-   title: "History Logistex - Transport & Logistics React Next js Template",
+title: "Octonaut-Shipping Line & Container Trading",
 };
 const page = () => {
    return (
